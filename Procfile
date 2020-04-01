@@ -1,0 +1,1 @@
+web: gunicorn elo.wsgi --log-file -
